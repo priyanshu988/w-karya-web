@@ -1,0 +1,39 @@
+
+
+
+.banner {
+    position: relative;
+    height:100vh;
+    color: black;
+    object-fit: contain;
+    background-size: cover;
+    background-position: center center;
+    
+    background-color: #FFDCC5;
+    
+    
+
+}
+
+
+
+
+.banner_contents {
+    margin-left: 30px;
+    padding-top: 15%;
+    height: 190px;
+   
+
+}
+.banner_title {
+    
+    font-size: 3em;
+    font-weight: bolder;
+    padding-bottom: 0.3rem;
+    color: #193E6C;
+}
+
+.banner_description {
+    color: #94483B;
+    width: 800px;
+}

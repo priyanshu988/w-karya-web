@@ -1,0 +1,53 @@
+.banner2 {
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+}
+
+.content_title {
+  margin-top: 5%;
+  font-size: 2em;
+  color: #193e6c;
+}
+.content_description {
+  font-size: 1em;
+  max-width: 400px;
+}
+
+.card {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.1);
+  height: 200px;
+  width: 600px;
+}
+
+.card:hover .gradient {
+  opacity: 1;
+}
+
+.gradient {
+  position: absolute;
+  background-image: linear-gradient(0deg, #ffdcc5, transparent);
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.card_info {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 2rem;
+  margin-top: 3rem;
+  font-size: 10px;
+}
+
+.section_line {
+    height: 3px;
+    width: 100vh;
+    background-color: grey;
+    border: none;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
