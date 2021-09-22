@@ -37,3 +37,16 @@
     color: #94483B;
     width: 800px;
 }
+
+.signupbutton {
+    background-color: #193E6C;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    margin: 20px;
+    font-size: 1em;
+    cursor: pointer;
+
+}
