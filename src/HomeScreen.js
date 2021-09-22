@@ -2,6 +2,7 @@ import React from 'react';
 import Nav from './Nav.js';
 import Banner from './Banner.js';
 import Banner2 from './Banner2.js';
+import Slider from './Slider.js';
 
 
 function HomeScreen() {
@@ -12,6 +13,8 @@ function HomeScreen() {
             <Banner />
 
             <Banner2 />
+
+            <Slider />
         </div>
     )
 }
