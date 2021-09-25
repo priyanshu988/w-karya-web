@@ -3,10 +3,14 @@
 
 .banner {
     position: relative;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    right: 0;
     height:100vh;
     color: black;
-    object-fit: contain;
-    background-size: cover;
+    overflow: hidden;
+    
     background-position: center center;
     
     background-color: #FFDCC5;
@@ -22,7 +26,6 @@
     margin-left: 30px;
     padding-top: 15%;
     height: 190px;
-   
 
 }
 .banner_title {
@@ -45,8 +48,10 @@
     border-radius: 10px;
     border: none;
     padding: 20px;
-    margin: 20px;
+    margin-top: 20px;
     font-size: 1em;
     cursor: pointer;
+
+    
 
 }

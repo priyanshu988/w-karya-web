@@ -1,7 +1,14 @@
-.banner2 {
-  height: 60vh;
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+.banner2 {
+  height: 60vh;
+  width: 100%;
+  background-color: white;
+  justify-content: center;
 }
 
 .content_title {

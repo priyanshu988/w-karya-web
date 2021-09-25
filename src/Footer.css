@@ -1,0 +1,21 @@
+.footer {
+    background-color: #FFDCC5;
+    height: 80vh;
+}
+
+.footer_grid {
+    display: grid;
+}
+
+.footer_name {
+    font-size: 1.2em;
+    color: #193E6C;
+}
+
+img {
+    width: 150px;
+}
+
+.footer_content {
+    
+}
