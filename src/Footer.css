@@ -1,18 +1,27 @@
-.footer {
+.page-footer {
     background-color: #FFDCC5;
-    height: 80vh;
 }
 
-.footer_grid {
-    display: grid;
+.page-footer {
+    position:relative;
+    bottom: 0;
+    left: 0;
+    height: 180px;
+}
+.footer-copyright {
+    background-color: #94483B;
+    color: white;
 }
 
-.footer_name {
-    font-size: 1.2em;
-    color: #193E6C;
+.icon-bottom {
+    height: 50px;
 }
 
-img {
-    width: 150px;
+.social-icon-bottom {
+    height: 30px;
 }
 
+
+.social-icon-bottom1 {
+    height: 23px;
+}

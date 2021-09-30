@@ -3,7 +3,7 @@ import React from "react";
 const Signupuser = () => {
   return (
     <>
-      <section class="vh-100">
+      <section class="vh-250">
         <div class="container  h-100">
           <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col-lg-12 col-xl-11">
@@ -41,7 +41,7 @@ const Signupuser = () => {
                         <div class="d-flex flex-row align-items-center mb-4">
                           <div class="form-outline flex-fill mb-0">
                             <label class="form-label" for="city">
-                              City
+                              Your City
                             </label>
                             <input type="text" id="city" class="form-control" />
                           </div>

@@ -12,6 +12,7 @@ import Signupcomp from './components/Signupcomp';
 import "bootstrap/dist/css/bootstrap.css";
 import Loginuser from './components/Loginuser';
 import Logincomp from './components/Logincomp';
+import Footer from './Footer.js';
 
 
 
@@ -57,6 +58,7 @@ function App() {
         <Logincomp />
       </Route>
 
+      <Footer />
     </div>
   );
 }
