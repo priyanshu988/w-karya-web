@@ -129,7 +129,7 @@ const Signup = () => {
                       <img
                         src="https://techengage.com/wp-content/uploads/2020/06/word-image-1.png"
                         class="img-fluid"
-                        alt="Sample image"
+                        alt=""
                       />
                     </div>
                   </div>
