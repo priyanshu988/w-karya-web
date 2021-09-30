@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #FFDCC5;
+}
+
+.signup-button {
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    padding-left: 20px;
+    width: 90px;
+    align-items: center;
+    justify-content: center;
+}
