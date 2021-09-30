@@ -14,7 +14,7 @@ function Banner2() {
             </p>
           </div>
 
-          <div className="card">
+          <div className="card1">
             <div className="gradient"></div>
             <div className="info">
               <p className="card_info">

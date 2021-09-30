@@ -13,13 +13,13 @@
   
 }
 
-p {
+p .desc {
     font-size: 0.6em;
     color: #94483B;
     letter-spacing: 1px;
   }
   
-  h1 {
+  h1 .head1 {
     font-size: 1.5em;
     color: #4E4E4E;
     margin-top: -5px;

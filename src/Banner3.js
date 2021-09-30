@@ -15,7 +15,7 @@ function Banner3() {
                 </div>
                 <div className="product">
                     <p>Effortless Joining for</p>
-                    <h1>Interviews</h1>
+                    <h1 className="head1">Interviews</h1>
                     <p className="desc">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -31,7 +31,7 @@ function Banner3() {
                 
                 <div className="product">
                     <p className="title_3">Effortless Joining for</p>
-                    <h1>Interviews</h1>
+                    <h1 className="head1">Interviews</h1>
                     <p className="desc">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
