@@ -3,7 +3,7 @@ import React from "react";
 const Signupcomp = () => {
   return (
     <>
-      <section class="vh-100">
+      <section class="vh-250">
         <div class="container  h-100">
           <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col-lg-12 col-xl-11">
