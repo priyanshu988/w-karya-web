@@ -51,9 +51,7 @@ function Slider() {
           </div>
         </div>
       </div>
-      <center>
-      <hr className="section_line" />
-      </center>
+      
     </div>
   );
 }

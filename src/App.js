@@ -22,7 +22,7 @@ function App() {
     <div className="App">
       <Navbar />
 
-      <Route path="/">
+      <Route path="/home">
         <Home />
       </Route>
 

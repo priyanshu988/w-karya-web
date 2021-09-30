@@ -12,7 +12,7 @@ const Navbar = () => {
           to="#"
           style={{ marginLeft: "20px", fontWeight: "bold", fontSize: "1.5em" }}
         >
-          W-Karya
+          <NavLink to="/"><img style={{height:"40px"}} src="https://i.ibb.co/dmZFYQ9/logo.png" alt="" /></NavLink>
         </NavLink>
         <button
           className="navbar-toggler"
@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item active">
-              <NavLink className="nav-link" to="/">
+              <NavLink className="nav-link" to="/home">
                 Home
               </NavLink>
             </li>
