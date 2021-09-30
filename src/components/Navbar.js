@@ -9,10 +9,10 @@ const Navbar = () => {
       <nav className="navbar sticky-top navbar-expand-lg navbar-light ">
         <NavLink
           className="navbar-brand"
-          to="#"
+          to="/home"
           style={{ marginLeft: "20px", fontWeight: "bold", fontSize: "1.5em" }}
         >
-          <NavLink to="/"><img style={{height:"40px"}} src="https://i.ibb.co/dmZFYQ9/logo.png" alt="" /></NavLink>
+          <NavLink to="/home"><img style={{height:"40px"}} src="https://i.ibb.co/dmZFYQ9/logo.png" alt="" /></NavLink>
         </NavLink>
         <button
           className="navbar-toggler"

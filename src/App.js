@@ -1,5 +1,5 @@
 import React from 'react';
-import {Route} from "react-router-dom";
+import {Route, Redirect} from "react-router-dom";
 import './App.css';
 import Navbar from './components/Navbar.js';
 import Home from './components/Home.js';
@@ -21,6 +21,10 @@ function App() {
   return (
     <div className="App">
       <Navbar />
+
+      <Route path="/">
+        <Redirect to="/home" />
+      </Route>
 
       <Route path="/home">
         <Home />
